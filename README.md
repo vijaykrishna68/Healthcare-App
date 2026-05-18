@@ -108,10 +108,4 @@ Developed by Vijay Krishna.
 
 ---
 
-# Resume Points
-
-* Developed a responsive Healthcare App frontend using React, TypeScript, and Vite, implementing reusable UI components and modern healthcare-focused UI/UX design principles.
-
-* Built and structured a scalable frontend architecture with optimized development workflow using Vite, improving maintainability and ensuring smooth user onboarding
-****
   
